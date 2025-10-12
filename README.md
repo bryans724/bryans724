@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan Sarfo  
 🎓 M.S. Data Science @ New York Institute of Technology  
-☕ Store Manager @ Birch Coffee | 📊 Forecasting & Analytics Enthusiast  
+☕ Store Manager | 📊 Forecasting & Analytics Enthusiast  
 
 I blend **data science, operational leadership, and automation** to turn messy real-world data into actionable insights.  
 Currently pursuing my master’s in Data Science while managing a busy NYC coffee shop,  
